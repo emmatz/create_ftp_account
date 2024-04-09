@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # With this script we can add new users to Filezilla Server configuration file (FileZilla Server 0.9.60 Beta).
 # Default configuration file --> 'FileZilla Server.xml'
 #
