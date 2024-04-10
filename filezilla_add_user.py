@@ -4,10 +4,6 @@
 #
 # developed by: emmatz
 #
-# version: 1.0 24/Feb/2023 - Appends new users to filezilla's configuration file and creates the ftp account home directory structure
-# version: 1.1 28/Feb/2023 - checkIfAccountExist function added
-# version: 1.2 1/Mar/2023 - Fix bug in Permissions node in XML
-# version: 1.3 1/Mar/2023 - makeBackup function modified in order for it to store the file backed up in a different location
 # version: 1.4 4/Apr/2023 - Allow to FTP account to delete files
 
 import hashlib
